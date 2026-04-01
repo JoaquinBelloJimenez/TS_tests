@@ -46,3 +46,5 @@ const enum VerbePouvoir{
     Vous = "pouvez",
     Elles = "peuvent"
 }
+
+// The cool thing about the constant enums is that JS don't even know them. They are hidden within the TypeScript magic. WoW -_-
